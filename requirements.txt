@@ -1,0 +1,20 @@
+# Core AI and agent orchestration
+crewai>=0.19.2
+
+# LLM Integration
+litellm>=1.31.8
+
+# PDF parsing
+PyMuPDF==1.23.7
+
+# Web UI
+gradio>=4.26.0
+
+# Environment variable management
+python-dotenv>=1.0.1
+
+# For secure handling in Colab (if used)
+google-colab
+
+# Optional: For compatibility
+requests>=2.31.0
