@@ -1,10 +1,10 @@
-# 🧠 Smart Resume Analyzer using CrewAI
+## 🧠 Smart Resume Analyzer using CrewAI
 
 An AI-powered resume analysis tool that evaluates how well a candidate’s résumé aligns with a given job description. Built with [CrewAI](https://github.com/joaomdmoura/crewAI), this project uses autonomous agents to extract, evaluate, and recommend improvements for better job matching.
 
 ---
 
-## 🚀 Features
+### 🚀 Features
 
 -  **PDF Resume Parsing** – Extracts key skills, experience, and education.
 -  **Job Compatibility Analysis** – Compares resume data with job descriptions.
@@ -14,7 +14,7 @@ An AI-powered resume analysis tool that evaluates how well a candidate’s résu
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 - **Python 3**
 - **CrewAI** for multi-agent orchestration
